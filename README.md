@@ -7,5 +7,5 @@
 <code><img src="https://cdn.cdnlogo.com/logos/t/58/tailwindcss.svg" width="30px"  height="20px"></code>
 <code><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" width="23px"></code>
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="23px"></code>
-<code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="30px"></code>
+<code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px"></code>
 <code><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px"></code>
