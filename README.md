@@ -10,3 +10,8 @@
 <code><img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-png-transparent.png" width="23px"></code>
 <code><img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" width="25px"></code>
 <code><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="20px"></code>
+
+<br/>
+
+☎️ &nbsp; My phone number: +998 (91) 144 77 xx <br/>
+❗My &nbsp; location: Fergana, Uzbekistan 
