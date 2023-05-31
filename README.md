@@ -13,5 +13,5 @@
 
 <br/>
 
-☎️ &nbsp; My phone number: +998 (91) 144 77 xx <br/>
-❗My &nbsp; location: Fergana, Uzbekistan 
+☎️ My phone number: +998 (91) 144 77 xx <br/>
+❗ My location: Fergana, Uzbekistan 
